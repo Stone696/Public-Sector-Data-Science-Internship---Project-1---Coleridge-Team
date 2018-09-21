@@ -1,0 +1,2 @@
+# Public-Sector-Data-Science-Internship---Project-1---Coleridge-Team
+First major application of what I learned during the classroom based learning portion of my internship. Resulted in the research paper in conjunction with the Coleridge team based around public transportation in the Kansas City MSA called, "TRANSPORTATION AND EMPLOYMENT An examination of the interaction between public transit and employment" 
